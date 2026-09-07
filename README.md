@@ -3,10 +3,10 @@
 As an R&D and Embedded Systems Engineer, I specialize in medical device projects and hardware integrations. I build end-to-end system architectures, from electronic circuit design to developing desktop control interfaces.
 
 ### 🛠️ Technologies & Tools
-* **Embedded Systems:** ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) (STM32CubeIDE), ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white), ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-* **Hardware Design:** ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A39B8B?style=for-the-badge&logo=altium&logoColor=white), ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white), ![Onshape](https://img.shields.io/badge/Onshape-742882?style=for-the-badge&logo=onshape&logoColor=white) (3D CAD)
+* **Embedded Systems:** ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white), ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white), ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+* **Hardware Design:** ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A39B8B?style=for-the-badge&logo=altium&logoColor=white), ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 * **Software & UI:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white), ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white), ![pyserial](https://img.shields.io/badge/pyserial-000000?style=for-the-badge&logo=python&logoColor=white)
-* **Rapid Prototyping:** 3D Printing (Bambu Lab X1-Carbon)
+* **Rapid Prototyping:**  ![Onshape](https://img.shields.io/badge/Onshape-742882?style=for-the-badge&logo=onshape&logoColor=white)
 
 ### 🚀 Featured Projects
 * **Hisar Medication Management System (HİYS):** TÜBİTAK 1509 supported project focusing on automated hospital medication management cabinets. My responsibilities included integrating barcode and fingerprint scanners, designing electronic lock mechanisms, PCB layout, and developing desktop control software (PySide6) for machine communication. *(Source code is kept private due to corporate confidentiality policies.)*
