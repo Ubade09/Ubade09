@@ -13,4 +13,4 @@ As an R&D and Embedded Systems Engineer, I specialize in medical device projects
 * **STM32 Programmer via ESP32:** A custom hardware and software solution designed to flash and program STM32 microcontrollers directly using an ESP32, completely eliminating the need for an external ST-Link programmer.
 * **Smart Home Automation:** An ESP32-based graduation project featuring sensor monitoring, optocoupler-isolated relay controls, and a server-connected mobile interface.
 
-📫 **Contact Me:** [https://www.linkedin.com/in/ubade-hakk%C4%B1-pekmezci-4178b81b8/](#)
+📫 **Contact Me:** [LinkedIn Profile](https://www.linkedin.com/in/ubade-hakk%C4%B1-pekmezci-4178b81b8/)(#)
