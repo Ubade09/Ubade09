@@ -9,7 +9,7 @@ As an R&D and Embedded Systems Engineer, I specialize in medical device projects
 * **Rapid Prototyping:**  ![Onshape](https://img.shields.io/badge/Onshape-742882?style=for-the-badge&logo=onshape&logoColor=white)
 
 ### 🚀 Featured Projects
-* **Hisar Medication Management System (HİYS):** TÜBİTAK 1509 supported project focusing on automated hospital medication management cabinets. My responsibilities included integrating barcode and fingerprint scanners, designing electronic lock mechanisms, PCB layout, and developing desktop control software (PySide6) for machine communication. *(Source code is kept private due to corporate confidentiality policies.)*
+* **Smart Medication Management System:** TÜBİTAK 1509 supported project focusing on automated hospital medication management cabinets. My responsibilities included integrating barcode and fingerprint scanners, designing electronic lock mechanisms, PCB layout, and developing desktop control software (PySide6) for machine communication. *(Source code is kept private due to corporate confidentiality policies.)*
 * **STM32 Programmer via ESP32:** A custom hardware and software solution designed to flash and program STM32 microcontrollers directly using an ESP32, completely eliminating the need for an external ST-Link programmer.
 * **Smart Home Automation:** An ESP32-based graduation project featuring sensor monitoring, optocoupler-isolated relay controls, and a server-connected mobile interface.
 
