@@ -10,10 +10,15 @@ As an R&D and Embedded Systems Engineer, I specialize in medical device projects
 
 ### 🚀 Featured Projects
 * **Smart Medication Management System:** TÜBİTAK 1509 supported project focusing on automated hospital medication management system. My responsibilities included:
+
 -Embedded Firmware & Microcontroller Programming: Developing firmware for system operations.
+
 -PCB Design: Executing schematic and layout designs for hardware infrastructure.
+
 -Communication Protocol Infrastructure: Establishing robust machine communication protocols using serial and desktop interfaces.
+
 -Embedded Systems Testing & Integration: Integrating components such as barcode and fingerprint scanners alongside electronic lock mechanisms, followed by comprehensive system testing.
+
 -Mechanical & Enclosure Design: Designing the physical cabinet structure and mechanical locking components.
 (Source code is kept private due to corporate confidentiality policies.)
 * **STM32 Programmer via ESP32:** A custom hardware and software solution designed to flash and program STM32 microcontrollers directly using an ESP32, completely eliminating the need for an external ST-Link programmer.
